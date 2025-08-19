@@ -1,9 +1,9 @@
-# twinagentsdk
+#  twin_agents_client_sdk
 
 ## Install
 ~~~bash
 # choose one
-npm i  twin_agents_client_sdk
+npm i twin_agents_client_sdk
 # yarn add twin_agents_client_sdk
 # pnpm add twin_agents_client_sdk
 ~~~
